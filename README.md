@@ -5,4 +5,4 @@ Finds the current episode count to a requested title
 - download the file
 - open terminal and navigate to your file and run it
 ```python3 app.py```
-type in any anime you want to find the ep count for
+- type in any anime you want to find the ep count for
